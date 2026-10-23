@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+=======
+123123
+изменение 1
+>>>>>>> Stashed changes
